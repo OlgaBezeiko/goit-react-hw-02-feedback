@@ -5,6 +5,8 @@ export const StatisticsList = styled.ul`
   justify-content: center;
   flex-wrap: wrap;
   gap: 10px;
+
+  list-style: none;
 `;
 
 export const StatisticsItem = styled.li`
